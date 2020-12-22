@@ -16,3 +16,16 @@ Java8からJava11へ変更点に関する参考文献
 [Java 10: 利用や動作に影響を与える変更点](https://gist.github.com/ykubota/3afcfdac5b252bd31ae8c14b54b5d32f)
 
 [Java 11: 利用や動作に影響を与える変更点](https://gist.github.com/ykubota/b37a62de579dc92d02c9483974160c67)
+
+[最適なOpenJDKディストリビューションの選び方](https://www.slideshare.net/TakahiroYamada3/how-to-choose-the-best-openjdk-distribution-201905)
+
+[JDKの選択肢とサーバーサイドでの選び方](https://www.slideshare.net/TakahiroYamada3/how-to-choose-jdk-for-server-side-20191004-gugj)
+
+[Oracle JDK 8にあってOpenJDKにない機能](https://qiita.com/yamadamn/items/bb813dccaa1dc5585c9b)
+
+[JDKの長期商用サポート(LTS)の提供ベンダー比較（無償利用についても言及あり）](https://qiita.com/u-tanick/items/bb166929a58a4c20bb88)
+
+[OpenJDKと各種JDKディストリビューションの情報源まとめ #minjava](https://qiita.com/yamadamn/items/2dd26a014791b9557199)
+
+[Hashtag Jakarta EE #25](https://www.agilejava.eu/2020/06/21/hashtag-jakarta-ee-25/)
+
