@@ -11,11 +11,15 @@ Java8からJava11へ変更点に関する参考文献
 
 [Java11へのマイグレーションガイド ~Apache Hadoopの事例~](https://www.slideshare.net/techblogyahoo/java11-apache-hadoop-146834504/)
 
+[巨大OSSプロジェクトにおいてJavaの最新バージョン(Java 17)に追従するための課題 #yjtc / YJTC21 C-8(2021/01/15)](https://www.slideshare.net/techblogyahoo/ossjava-yjtc-yjtc21-c8)
+
 [Migration Guide from Java 8 to Java 11 #jjug](https://www.slideshare.net/YujiKubota/migration-guide-from-java-8-to-java-11-jjug)
 
 [Java 10: 利用や動作に影響を与える変更点](https://gist.github.com/ykubota/3afcfdac5b252bd31ae8c14b54b5d32f)
 
 [Java 11: 利用や動作に影響を与える変更点](https://gist.github.com/ykubota/b37a62de579dc92d02c9483974160c67)
+
+[JshellでJDK11の動きを確認](https://qiita.com/nowokay/items/80e8ccd50f6749846dd6)
 
 [最適なOpenJDKディストリビューションの選び方](https://www.slideshare.net/TakahiroYamada3/how-to-choose-the-best-openjdk-distribution-201905)
 
@@ -28,6 +32,4 @@ Java8からJava11へ変更点に関する参考文献
 [OpenJDKと各種JDKディストリビューションの情報源まとめ #minjava](https://qiita.com/yamadamn/items/2dd26a014791b9557199)
 
 [Hashtag Jakarta EE #25](https://www.agilejava.eu/2020/06/21/hashtag-jakarta-ee-25/)
-
-[巨大OSSプロジェクトにおいてJavaの最新バージョンに追従するための課題 #yjtc / YJTC21 C-8(2021/01/15)](https://www.slideshare.net/techblogyahoo/ossjava-yjtc-yjtc21-c8)
 
