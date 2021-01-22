@@ -29,3 +29,5 @@ Java8からJava11へ変更点に関する参考文献
 
 [Hashtag Jakarta EE #25](https://www.agilejava.eu/2020/06/21/hashtag-jakarta-ee-25/)
 
+[巨大OSSプロジェクトにおいてJavaの最新バージョンに追従するための課題 #yjtc / YJTC21 C-8(2021/01/15)](https://www.slideshare.net/techblogyahoo/ossjava-yjtc-yjtc21-c8)
+
