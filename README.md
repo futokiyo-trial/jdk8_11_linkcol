@@ -33,3 +33,27 @@ Java8からJava11へ変更点に関する参考文献
 
 [Hashtag Jakarta EE #25](https://www.agilejava.eu/2020/06/21/hashtag-jakarta-ee-25/)
 
+[Java17の新機能をざっくり紹介](https://qiita.com/ReiTsukikazu/items/407d61cb66fa4f562bf9)
+
+[JJUGナイトセミナー「Java 17 リリース記念イベント with Foojay」](https://www.youtube.com/watch?app=desktop&v=eKKv39xni6Y)
+
+[ローカルクラスとしてrecordを使う](https://irof.hateblo.jp/entry/2021/10/23/144337)
+
+[Bootiful SQL Template 2.1.0でRecord対応をしました（Java 16以降のAPIをJava 8でビルドする）。](https://cero-t.hatenadiary.jp/entry/2021/10/23/121806)
+
+[2022/03/16 Card Table Card Size Shenanigans](https://logico-jp.io/2022/03/16/card-table-card-size-shenanigans/)
+
+[Java17雑感 2021-09-16](https://irof.hateblo.jp/entry/2021/09/16/151702)
+
+[JDK 17の内部JDK要素の強力なカプセル化（JEP 403 Strongly Encapsulate JDK Internals,JEP 396 Strongly Encapsulate JDK Internals by Default） ](https://www.infoq.com/jp/news/2021/07/internals-encapsulated-jdk17/)
+
+[Java 18正式リリース。デフォルトのCharsetが「UTF-8」に、シンプルWebサーバ搭載など新機能](https://www.publickey1.jp/blog/22/java_18charsetutf-8web.html)
+
+[JJUGナイトセミナー「Java 18 リリース記念イベント」](https://www.youtube.com/watch?app=desktop&v=fhIaKjfY5Bc&feature=youtu.be)
+
+[Java 18新機能まとめ](https://qiita.com/nowokay/items/17d990aa8a5b1c5223c8)
+
+[Java 18とAmberとValhallaとLoomの話の資料です。　Project Loomはコルーチンの実装ということになる](https://speakerdeck.com/kishida/java-18-new-feature-and-future)
+
+
+
