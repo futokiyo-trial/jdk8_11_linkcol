@@ -31,6 +31,8 @@ Java8からJava11へ変更点に関する参考文献
 
 [OpenJDKと各種JDKディストリビューションの情報源まとめ #minjava](https://qiita.com/yamadamn/items/2dd26a014791b9557199)
 
+[【OBSOLETE】Oracle Java SEの有償化に伴うOpenJDKへの切り替えの案内 | 京都教育大学 情報処理センター](https://www.kyokyo-u.ac.jp/c_ipc/openjdk.html)
+
 [Hashtag Jakarta EE #25](https://www.agilejava.eu/2020/06/21/hashtag-jakarta-ee-25/)
 
 [Java17の新機能をざっくり紹介](https://qiita.com/ReiTsukikazu/items/407d61cb66fa4f562bf9)
