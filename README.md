@@ -11,6 +11,8 @@ Java8からJava11へ変更点に関する参考文献
 
 [Java11へのマイグレーションガイド ~Apache Hadoopの事例~](https://www.slideshare.net/techblogyahoo/java11-apache-hadoop-146834504/)
 
+[JenkinsがJava 8の対応を終了し、Java 11が必須に。Java 17の対応も開始 - Publickey 2022年7月7日](https://www.publickey1.jp/blog/22/jenkinsjava_8java_11java_17.html)
+
 [巨大OSSプロジェクトにおいてJavaの最新バージョン(Java 17)に追従するための課題 #yjtc / YJTC21 C-8(2021/01/15)](https://www.slideshare.net/techblogyahoo/ossjava-yjtc-yjtc21-c8)
 
 [Migration Guide from Java 8 to Java 11 #jjug](https://www.slideshare.net/YujiKubota/migration-guide-from-java-8-to-java-11-jjug)
