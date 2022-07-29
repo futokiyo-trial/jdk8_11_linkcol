@@ -1,5 +1,7 @@
 # jdk8_11_linkcol
-Java8からJava11へ変更点に関する参考文献
+
+
+## Java8からJava11へ変更点に関する参考文献
 
 [Java11による変更点](https://twitter.com/sugarlife/status/1073854073764376576)
 
@@ -35,6 +37,32 @@ Java8からJava11へ変更点に関する参考文献
 
 [【OBSOLETE】Oracle Java SEの有償化に伴うOpenJDKへの切り替えの案内 | 京都教育大学 情報処理センター](https://www.kyokyo-u.ac.jp/c_ipc/openjdk.html)
 
+### JREという用語について。
+https://twitter.com/kis/status/1551683885993689088
+
+Java 8まで
+
+JRE(Java SE Runtime Environment) = Java VM + API + Applet/Java Web Start
+
+JDK = Java VM + API + JRE + 開発ツール(javac等)
+
+(JavaVM, APIは二重に含まれていた)
+
+
+
+
+Java 11以降
+
+JRE = Java VM + API
+
+JDK = JRE + 開発ツール
+
+
+
+## Java17
+
+[2022年のJavaまるわかり！最新バージョンからJavaを取り巻く環境まで 2022-07-14](https://gihyo.jp/article/2022/07/java2022-0701)
+
 [Hashtag Jakarta EE #25](https://www.agilejava.eu/2020/06/21/hashtag-jakarta-ee-25/)
 
 [Java17の新機能をざっくり紹介](https://qiita.com/ReiTsukikazu/items/407d61cb66fa4f562bf9)
@@ -50,6 +78,8 @@ Java8からJava11へ変更点に関する参考文献
 [Java17雑感 2021-09-16](https://irof.hateblo.jp/entry/2021/09/16/151702)
 
 [JDK 17の内部JDK要素の強力なカプセル化（JEP 403 Strongly Encapsulate JDK Internals,JEP 396 Strongly Encapsulate JDK Internals by Default） ](https://www.infoq.com/jp/news/2021/07/internals-encapsulated-jdk17/)
+
+## Java18
 
 [Java 18正式リリース。デフォルトのCharsetが「UTF-8」に、シンプルWebサーバ搭載など新機能](https://www.publickey1.jp/blog/22/java_18charsetutf-8web.html)
 
