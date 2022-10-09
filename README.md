@@ -79,6 +79,22 @@ JDK = JRE + 開発ツール
 
 [JDK 17の内部JDK要素の強力なカプセル化（JEP 403 Strongly Encapsulate JDK Internals,JEP 396 Strongly Encapsulate JDK Internals by Default） ](https://www.infoq.com/jp/news/2021/07/internals-encapsulated-jdk17/)
 
+[Java17(Java13以降)でgraphemeをカウントする - abcdefg.....](https://pppurple.hatenablog.com/entry/2022/04/17/031646)
+
+[Java17(Java13以降)でgraphemeをカウントするのJava SampleCode](https://github.com/pppurple/java_examples/blob/master/count-string-example/src/main/java/Main.java)
+
+[文字列の長さを取得する方法：lengthとcodePointCountの使い分け｜Scalapedia](https://scalapedia.com/articles/8/%E6%96%87%E5%AD%97%E5%88%97%E3%81%AE%E9%95%B7%E3%81%95%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%EF%BC%9Alength%E3%81%A8codePointCount%E3%81%AE%E4%BD%BF%E3%81%84%E5%88%86%E3%81%91#%E3%82%B5%E3%83%AD%E3%82%B2%E3%83%BC%E3%83%88%E3%83%9A%E3%82%A2%E3%82%92%E5%90%AB%E3%82%80%E6%96%87%E5%AD%97%E5%88%97%E3%81%AE%E9%95%B7%E3%81%95%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B)
+
+[length／codePointCountメソッド | Javaコード入門](https://java-code.jp/189)
+
+[nablarch core util StringUtil.java](https://github.com/nablarch/nablarch-core/blob/master/src/main/java/nablarch/core/util/StringUtil.java)
+
+[Red Hat JBoss Enterprise Application Platform (EAP) 7 Supported Configurations](https://access.redhat.com/articles/2026253)
+
+[Docker HubのOpenJDKイメージの利用を更新するためのアドバイス](https://rheb.hatenablog.com/entry/updating-docker-hubs-openjdk-image)
+
+[Red Hat は Eclipse TemurinでJavaのサポートを拡大](https://rheb.hatenablog.com/entry/red-hat-expands-support-java-eclipse-temurin)
+
 ## Java18
 
 [Java 18正式リリース。デフォルトのCharsetが「UTF-8」に、シンプルWebサーバ搭載など新機能](https://www.publickey1.jp/blog/22/java_18charsetutf-8web.html)
