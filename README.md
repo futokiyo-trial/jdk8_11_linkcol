@@ -85,6 +85,10 @@ JDK = JRE + 開発ツール
 
 [Java17雑感 2021-09-16](https://irof.hateblo.jp/entry/2021/09/16/151702)
 
+[Java17にBump upしてみた - 使った/使わなかった新機能(前編) - 豆蔵デベロッパーサイト 2022-06-06](https://developer.mamezou-tech.com/blogs/2022/06/06/bumpup-java17-part1/)
+
+[Java17にBump upしてみた - 使った/使わなかった新機能(後編) - 豆蔵デベロッパーサイト 2022-06-13](https://developer.mamezou-tech.com/blogs/2022/06/13/bumpup-java17-part2/)
+
 [JDK 17の内部JDK要素の強力なカプセル化（JEP 403 Strongly Encapsulate JDK Internals,JEP 396 Strongly Encapsulate JDK Internals by Default） ](https://www.infoq.com/jp/news/2021/07/internals-encapsulated-jdk17/)
 
 [Improve filtering for classes with security sensitive fields（JDK12以降リフレクションAPIのクラスのフィールやメソッドなどへのリフレクションAPI経由アクセスが禁止された）](https://bugs.openjdk.org/browse/JDK-8210522)
