@@ -15,7 +15,7 @@
 
 [【Modern Java】Java Platform Module System （JPMS） - A Memorandum 2020-07-13](https://blog1.mammb.com/entry/2020/07/13/090000)
 
-[Java11へのマイグレーションガイド ~Apache Hadoopの事例~](https://www.slideshare.net/techblogyahoo/java11-apache-hadoop-146834504/)
+[Java11へのマイグレーションガイド ～Apache Hadoopの事例～](https://www.slideshare.net/techblogyahoo/java11-apache-hadoop-146834504/)
 
 [JenkinsがJava 8の対応を終了し、Java 11が必須に。Java 17の対応も開始 - Publickey 2022年7月7日](https://www.publickey1.jp/blog/22/jenkinsjava_8java_11java_17.html)
 
