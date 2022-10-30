@@ -41,6 +41,10 @@
 
 [【OBSOLETE】Oracle Java SEの有償化に伴うOpenJDKへの切り替えの案内 | 京都教育大学 情報処理センター](https://www.kyokyo-u.ac.jp/c_ipc/openjdk.html)
 
+[Oracle JDK 17 - （Oracle JDK 17から）再び商用利用が無料に（ただしOracle JDK 8/11は商用利用や組織内利用で有償ライセンスのまま）](https://www.infoq.com/jp/news/2021/11/oracle-jdk-free-again/)
+
+[オラクル、Oracle JDKを再び無料提供へ、本番環境でも利用可。昨日リリースのJava 17から - Publickey 2021年9月15日](https://www.publickey1.jp/blog/21/oracle_jdkjava_17.html)
+
 ### JREという用語について。
 https://twitter.com/kis/status/1551683885993689088
 
