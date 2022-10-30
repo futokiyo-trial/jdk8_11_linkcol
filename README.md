@@ -45,6 +45,8 @@
 
 [オラクル、Oracle JDKを再び無料提供へ、本番環境でも利用可。昨日リリースのJava 17から - Publickey 2021年9月15日](https://www.publickey1.jp/blog/21/oracle_jdkjava_17.html)
 
+[Oracle JDK 17からの（再）ライセンス変更やLTS2年サイクル変更提案に関する雑感 - togetter 2021/09/22](https://togetter.com/li/1778216)
+
 ### JREという用語について。
 https://twitter.com/kis/status/1551683885993689088
 
