@@ -113,6 +113,10 @@ JDK = JRE + 開発ツール
 
 [Red Hat は Eclipse TemurinでJavaのサポートを拡大](https://rheb.hatenablog.com/entry/red-hat-expands-support-java-eclipse-temurin)
 
+[【オンライン】 JJUG CCC 2021 Fall 発表資料・動画まとめ - 分かりやすい技術ブログ 2021/11/21](https://sun0range.com/event-report/jjug-ccc-2021-fall/)
+
+[JJUG CCC 2021 Fall ( #jjug_ccc ) - セッション資料の一覧 - 地平線に行く 2021-11-21](https://yujisoftware.hatenablog.com/entry/jjug_ccc_2021_fall)
+
 ## Java18
 
 [Java 18正式リリース。デフォルトのCharsetが「UTF-8」に、シンプルWebサーバ搭載など新機能](https://www.publickey1.jp/blog/22/java_18charsetutf-8web.html)
