@@ -11,6 +11,10 @@
 
 [Java8からJava11への変更点](https://qiita.com/nowokay/items/1ce24079f4daafc73b4a)
 
+[InaccessibleObjectException の発生原因とその対処方（Java 9以降JavaPlatform Module Systemによりリフレクションの挙動がJava8とは異なる） - A Memorandum 2020-12-28](https://blog1.mammb.com/entry/2020/12/28/090000)
+
+[【Modern Java】Java Platform Module System （JPMS） - A Memorandum 2020-07-13](https://blog1.mammb.com/entry/2020/07/13/090000)
+
 [Java11へのマイグレーションガイド ~Apache Hadoopの事例~](https://www.slideshare.net/techblogyahoo/java11-apache-hadoop-146834504/)
 
 [JenkinsがJava 8の対応を終了し、Java 11が必須に。Java 17の対応も開始 - Publickey 2022年7月7日](https://www.publickey1.jp/blog/22/jenkinsjava_8java_11java_17.html)
@@ -79,6 +83,12 @@ JDK = JRE + 開発ツール
 
 [JDK 17の内部JDK要素の強力なカプセル化（JEP 403 Strongly Encapsulate JDK Internals,JEP 396 Strongly Encapsulate JDK Internals by Default） ](https://www.infoq.com/jp/news/2021/07/internals-encapsulated-jdk17/)
 
+[Improve filtering for classes with security sensitive fields（JDK12以降リフレクションAPIのクラスのフィールやメソッドなどへのリフレクションAPI経由アクセスが禁止された）](https://bugs.openjdk.org/browse/JDK-8210522)
+
+[Get declared fields of java.lang.reflect.Fields in jdk12（JDK12以降リフレクションAPIのクラスのフィールやメソッドなどへのリフレクションAPI経由アクセスが禁止された）](https://stackoverflow.com/questions/56039341/get-declared-fields-of-java-lang-reflect-fields-in-jdk12)
+
+[Error with JDK12+ "java.lang.NoSuchFieldException: modifiers" #15239（JDK12以降リフレクションAPIのクラスのフィールやメソッドなどへのリフレクションAPI経由アクセスが禁止された）](https://github.com/prestodb/presto/issues/15239)
+
 [Java17(Java13以降)でgraphemeをカウントする - abcdefg.....](https://pppurple.hatenablog.com/entry/2022/04/17/031646)
 
 [Java17(Java13以降)でgraphemeをカウントするのJava SampleCode](https://github.com/pppurple/java_examples/blob/master/count-string-example/src/main/java/Main.java)
@@ -105,5 +115,50 @@ JDK = JRE + 開発ツール
 
 [Java 18とAmberとValhallaとLoomの話の資料です。　Project Loomはコルーチンの実装ということになる](https://speakerdeck.com/kishida/java-18-new-feature-and-future)
 
+## Java19
+
+[JJUGナイトセミナー「Java 19 リリース記念イベント」：Head toward Java 19、JEP 424 Foreign Function & Memory API を試しに使ってみました！ by YujiSoftware、JDK17以降のOracle JDKライセンスモデルを再復習しよう by 伊藤 敬](https://www.youtube.com/watch?v=SrwIBVBz1Po)
+
+[Head toward Java 19 KUBOTA Yuji LINE Corporation / IMF Team JJUG Night Seminar 2022/Sep/30](https://www.docswell.com/s/ykubota/5QWYY5-2022-09-30-211424)
+
+[JEP 424 Foreign Function & Memory API を試しに使ってみました！](https://speakerdeck.com/yujisoftware/jep-424-foreign-function-and-memory-api-woshi-sinishi-tutemimasita)
+
+[Java 19新機能まとめ](https://qiita.com/nowokay/items/b903c10502f9ffe50c3a)
+
+[Java 19新機能まとめ - YouTube](https://www.youtube.com/watch?v=-5zlmBnxmCU)
+
+[Java 19の注目新機能Virtual Threadについて～TechFeed Conference 2022講演より](https://gihyo.jp/article/2022/08/tfc003-java19)
+
+[Java 19リリース――7つのJEPsを提供、開発者の生産性向上、パフォーマンスや安定性、セキュリティの強化も](https://gihyo.jp/article/2022/09/java19)
+
+[Java 19が正式リリース。より軽量な仮想スレッド、RISC-Vへの移植など新機能。1年後のJava 21が次のLTS版に 2022年9月21日](https://www.publickey1.jp/blog/22/java_19risc-v1java_21lts.html)
+
+[「Java19」は何が新しいのか？ 注目すべき新機能とJava17以降の変更点を解説 Java19での新しいAPI、変更点とJava17からのおさらい 第1回](https://codezine.jp/article/detail/16512)
+
+[5 分でかんたんに学ぶ Java 19 の Virtual Thread](https://www.youtube.com/watch?v=gijkW4b3v8g)
+
+[JEP 425: Java Virtual Threads to Deliver Improved Throughput](https://www.infoq.com/news/2022/05/virtual-threads-for-jdk19/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+
+[Quality Outreach Heads-up – JEP 425 Virtual Threads (preview) Testing 2022/05/19 : JDK 19 Early-Access builds 22でJEP 425 (Virtual Threads) がOpenJDKのメインラインに統合されたので、仮想スレッドを利用してのテストや、プレビュー機能を有効にして既存のコードのテストを実施し、フィードバックしてね、というお話。](https://logico-jp.io/2022/05/19/quality-outreach-heads-up-jep-425-virtual-threads-preview-testing/)
+
+[VirtualThread の状態遷移図を作ったのでご査収ください](https://twitter.com/mike_neck/status/1537794055887032321)
+
+[日本語訳：JEP 425 : Virtual Threads (Preview) https://openjdk.java.net/jeps/425 1](https://b.chiroito.dev/entry/virtualthreads1)
+
+[日本語訳：JEP 425 : Virtual Threads (Preview) https://openjdk.java.net/jeps/425 2](https://b.chiroito.dev/entry/virtualthreads2)
+
+[日本語訳：JEP 425 : Virtual Threads (Preview) https://openjdk.java.net/jeps/425 3](https://b.chiroito.dev/entry/virtualthreads3)
+
+[日本語訳：JEP 425 : Virtual Threads (Preview) https://openjdk.java.net/jeps/425 4](https://b.chiroito.dev/entry/virtualthreads4)
+
+[日本語訳：JEP 425 : Virtual Threads (Preview) https://openjdk.java.net/jeps/425 5](https://b.chiroito.dev/entry/virtualthreads5)
+
+[Launching 10 millions virtual threads with Loom](https://www.youtube.com/watch?app=desktop&v=UVoGE0GZZPI)
+
+[Java 19の注目新機能Virtual Threadについて ～TechFeed Conference 2022講演より 2022-08-25](https://gihyo.jp/article/2022/08/tfc003-java19)
+
+[Java 19 has a convenient ThreadBuilder for both native and virtual threads](https://twitter.com/mariofusco/status/1579379935441195008)
+
+[Java 19 がリリース (LTSではない)2022-09-26 今回の注目はやっぱり仮想スレッド](https://devlights.hatenablog.com/entry/2022/09/26/073000)
 
 
