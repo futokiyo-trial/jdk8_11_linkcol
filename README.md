@@ -175,4 +175,8 @@ JDK = JRE + 開発ツール
 
 [Java 19 がリリース (LTSではない)2022-09-26 今回の注目はやっぱり仮想スレッド](https://devlights.hatenablog.com/entry/2022/09/26/073000)
 
+[Loom is Blooming by José Paumard & Remi Forax](https://www.youtube.com/watch?v=eU9mUmnhjb4)
+
+[ぼくたちは Java アプリケーションの起動速度をどこまで縮められるか  - November 10, 2022](https://speakerdeck.com/bulbulpaul/bokutatiha-java-apurikesiyonnoqi-dong-su-du-wodokomadesuo-merareruka)
+
 
