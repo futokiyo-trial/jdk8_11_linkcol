@@ -177,6 +177,8 @@ JDK = JRE + 開発ツール
 
 [【オフライン&配信】 JavaOne & Devoxx報告会 2022（JDK12以降特記すべき仕様変更）](https://www.youtube.com/watch?v=9Pyxv2Eyl-c)
 
+[JavaOne 2022 報告会（パターンマッチングとString Templatesの話）](https://speakerdeck.com/takasyou/javaone-2022-bao-gao-hui-patanmatutingutostring-templatesnohua)
+
 [Loom is Blooming by José Paumard & Remi Forax](https://www.youtube.com/watch?v=eU9mUmnhjb4)
 
 [ぼくたちは Java アプリケーションの起動速度をどこまで縮められるか  - November 10, 2022](https://speakerdeck.com/bulbulpaul/bokutatiha-java-apurikesiyonnoqi-dong-su-du-wodokomadesuo-merareruka)
