@@ -179,8 +179,24 @@ JDK = JRE + 開発ツール
 
 [JavaOne 2022 報告会（パターンマッチングとString Templatesの話）](https://speakerdeck.com/takasyou/javaone-2022-bao-gao-hui-patanmatutingutostring-templatesnohua)
 
+[Devoxx Belgium 2022 Report - Akihiro Nishikawa November 11, 2022 ](https://speakerdeck.com/logico/devoxx-belgium-2022-report)
+
+[コレクションフレームワーク関連セッション（JavaOne & Devoxx報告会 2022 発表資料） - 2022年11月11日（金）](https://www.slideshare.net/nttdata-tech/collections-framework-jjug-javaone-devoxx-2022-nttdata)
+
+
 [Loom is Blooming by José Paumard & Remi Forax](https://www.youtube.com/watch?v=eU9mUmnhjb4)
 
 [ぼくたちは Java アプリケーションの起動速度をどこまで縮められるか  - November 10, 2022](https://speakerdeck.com/bulbulpaul/bokutatiha-java-apurikesiyonnoqi-dong-su-du-wodokomadesuo-merareruka)
+
+[Java Language: Project CRaC Coordinated Restore at Checkpoint - JDConf 2022](https://www.youtube.com/watch?v=GZ-uxWoFr6w)
+
+[Java on CRaC: Superfast JVM Application Startup by Simon Ritter](https://www.youtube.com/watch?v=0evEs_3yaEI)
+
+[Quality Outreach Heads-up – JDK 20: Thread.stop(), Thread.suspend() and Thread.resume() degradation JDK 20 (EAb22以後) でThread.stop()、Thread.suspend()、Thread.resume() はそれぞれの機能が削除され､UnsupportedOperationExceptionが出るように変更されているよ、というお話。- Logico Inside 2022/11/17](https://logico-jp.io/2022/11/17/quality-outreach-heads-up-jdk-20-thread-stop-thread-suspend-and-thread-resume-degradation/)
+
+[Quality Outreach Heads-up – JDK 20: Disable the Legacy Parallel Class Loading Workaround … JDK 6で導入された並列クラスロードを許可する回避策がJDK 20で削除されたよ、というお話。- Logico Inside 2022/11/17](https://logico-jp.io/2022/11/17/quality-outreach-heads-up-jdk-20-disable-the-legacy-parallel-class-loading-workaround/)
+
+[Native Image Quick Reference v2 GraalVM Native Image Quick Referenceの第2版ができたよ、というお話。- Logico Inside 2022/11/18](https://logico-jp.io/2022/11/18/native-image-quick-reference-v2/)
+
 
 
