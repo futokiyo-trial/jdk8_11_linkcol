@@ -175,6 +175,10 @@ JDK = JRE + 開発ツール
 
 [Java 19 がリリース (LTSではない)2022-09-26 今回の注目はやっぱり仮想スレッド](https://devlights.hatenablog.com/entry/2022/09/26/073000)
 
+[JJUG CCC 2022 Fallのバーチャルスレッドの発表、デモ](https://github.com/mike-neck/jjug-ccc-2022-fall-web)
+
+[JJUG CCC 2019 Fall C+D 11:00 〜 11:45 『入門 例外』 発表資料](https://github.com/mike-neck/practical-exception)
+
 [【オフライン&配信】 JavaOne & Devoxx報告会 2022（JDK12以降特記すべき仕様変更）](https://www.youtube.com/watch?v=9Pyxv2Eyl-c)
 
 [JavaOne 2022 報告会（パターンマッチングとString Templatesの話）](https://speakerdeck.com/takasyou/javaone-2022-bao-gao-hui-patanmatutingutostring-templatesnohua)
@@ -198,5 +202,7 @@ JDK = JRE + 開発ツール
 
 [Native Image Quick Reference v2 GraalVM Native Image Quick Referenceの第2版ができたよ、というお話。- Logico Inside 2022/11/18](https://logico-jp.io/2022/11/18/native-image-quick-reference-v2/)
 
+[JJUG CCC の Microsoft Build OpenJDK のコンテナ活用のベストプラクティスで説明時に利用しているサンプルとスクリプト](https://github.com/yoshioterada/MS-Build-OpenJDK-Container-Best-Practice)
 
+[FizzBuzzで学ぶJavaの進化 - JJUG CCC 2022 Fall](https://www.slideshare.net/toranoana-lab/fizzbuzzjava)
 
