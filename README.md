@@ -216,6 +216,8 @@ JDK = JRE + 開発ツール
 
 [JJUG CCC 2022 Fall【Track D】](https://www.youtube.com/watch?v=cRkyUK2RDfE)
 
+[2022-11-27 JJUG CCC 2022 Fall](https://www.youtube.com/playlist?list=PLy44EKO1L0eIl0VIYmGXk9635j6QQ7cF0)
+
 [ 日本Javaユーザーグループ 最近アップロードされた動画](https://www.youtube.com/@java6566/videos)
 
 
@@ -283,5 +285,7 @@ JDK = JRE + 開発ツール
 [D 1600 疋田圭介CData クラウド時代のデータアクセス仮想化のススメ](https://www.youtube.com/watch?v=kQFocfI2kZs)
 
 [ユーザー数100万人規模の事業成長を止めずに、レガシーコードと戦う / JJUG CCC 2022 Fall](https://speakerdeck.com/visional_engineering_and_design/jjug-ccc-2022-fall)
+
+[D 1700 Christoph Engelbert PostgreSQL, The Time Series Database You Want](https://www.youtube.com/watch?v=tI9XzfGJOTY&list=PLy44EKO1L0eIl0VIYmGXk9635j6QQ7cF0&index=30)
 
 [PostgreSQL: The Time-Series Database You (Actually) Want](https://www.slideshare.net/ChristophEngelbert/postgresql-the-timeseries-database-you-actually-wantpdf)
