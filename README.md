@@ -204,5 +204,17 @@ JDK = JRE + 開発ツール
 
 [JJUG CCC の Microsoft Build OpenJDK のコンテナ活用のベストプラクティスで説明時に利用しているサンプルとスクリプト](https://github.com/yoshioterada/MS-Build-OpenJDK-Container-Best-Practice)
 
+[JJUG CCC 2022 Fall 視聴ページ](https://ccc2022fall-viewer.java-users.jp/)
+
+[JJUG CCC 2022 Fall【Track A】](https://www.youtube.com/watch?v=5Hu3SBNIJSI)
+
+[JJUG CCC 2022 Fall【Track B】](https://www.youtube.com/watch?v=l9Hf0VBu4RE)
+
+[JJUG CCC 2022 Fall【Track C】](https://www.youtube.com/watch?v=DWzF3nxI9Ok)
+
+[JJUG CCC 2022 Fall【Track D】](https://www.youtube.com/watch?v=cRkyUK2RDfE)
+
+
 [FizzBuzzで学ぶJavaの進化 - JJUG CCC 2022 Fall](https://www.slideshare.net/toranoana-lab/fizzbuzzjava)
 
+[Javaの入門が終わったら何の勉強をすればいいの？](https://speakerdeck.com/kishida/what-should-we-study-after-language)
