@@ -175,6 +175,8 @@ JDK = JRE + 開発ツール
 
 [Java 19 がリリース (LTSではない)2022-09-26 今回の注目はやっぱり仮想スレッド](https://devlights.hatenablog.com/entry/2022/09/26/073000)
 
+[C 1000 もちだ バーチャルスレッド詳細](https://www.youtube.com/watch?v=MawoXHB40NA)
+
 [JJUG CCC 2022 Fallのバーチャルスレッドの発表、デモ](https://github.com/mike-neck/jjug-ccc-2022-fall-web)
 
 [JJUG CCC 2019 Fall C+D 11:00 〜 11:45 『入門 例外』 発表資料](https://github.com/mike-neck/practical-exception)
@@ -214,7 +216,72 @@ JDK = JRE + 開発ツール
 
 [JJUG CCC 2022 Fall【Track D】](https://www.youtube.com/watch?v=cRkyUK2RDfE)
 
+[ 日本Javaユーザーグループ 最近アップロードされた動画](https://www.youtube.com/@java6566/videos)
+
 
 [FizzBuzzで学ぶJavaの進化 - JJUG CCC 2022 Fall](https://www.slideshare.net/toranoana-lab/fizzbuzzjava)
 
+[C 1500 河野裕隆 FizzBuzzで学ぶJava 7以降のJavaの進化](https://www.youtube.com/watch?v=aVxwcB652fc)
+
 [Javaの入門が終わったら何の勉強をすればいいの？](https://speakerdeck.com/kishida/what-should-we-study-after-language)
+
+[JJUG CCC 2022 Fall ( #jjug_ccc ) - セッション資料の一覧 2022/11/27](https://yujisoftware.hatenablog.com/entry/jjug_ccc_2022_fall)
+
+[A 1000 白栁隆司 非Javaエンジニアが「プロになるJava」で再勉強した話](https://www.youtube.com/watch?v=r1r6VEgfVb4)
+
+
+
+[A 1100 森藤賢司LINE LINE NEWSにおけるJava移行の5年間の歩みとこれから](https://www.youtube.com/watch?v=XTvxIIyrNM4)
+
+[LINE NEWSにおけるJava移行の5年間の歩みとこれから](https://speakerdeck.com/line_developers/five-years-of-java-migration-and-the-future-of-line-news)
+
+
+[A 1025 浅野正貴 Git 未経験者が GitHub Actions で CI CD できるようになるまで](https://www.youtube.com/watch?v=TuQcYJwQ3Q4)
+
+[Git 未経験者 が GitHub Actions で CICD できるようになるまで](https://speakerdeck.com/mackey0225/20221127-jjugccc-2022-fall-git-beginner-built-cicd-pipeline-with-githubactions)
+
+
+
+[A 1230 多田真敏 入門：テスト技法とJUnit](https://www.youtube.com/watch?v=_7nkOxyO4fU)
+
+
+
+[A 1330 野中翔太カサレアル 未来を見据えた CI CD ～ 10年後も使える ビルド・テスト パイプライン ～](https://www.youtube.com/watch?v=msC04lnwKXA)
+
+
+
+[A 1600 濵田 健サイボウズ 組織と技術の両輪で開発を加速させるkintoneチームの取り組み](https://www.youtube.com/watch?v=9-XGMnYbDt4)
+
+[JJUG CCC 2022 Fall Cybozu kintone / 組織と技術の両輪で開発を加速させるkintoneチームの取り組み](https://speakerdeck.com/itchyny/zu-zhi-toji-shu-noliang-lun-dekai-fa-wojia-su-saserukintonetimunoqu-rizu-mi)
+
+[B 1330 清家蒼一朗シンプレックス gaugeで学ぶ実行可能ドキュメントの価値](https://www.youtube.com/watch?v=ykIj8IKBgns)
+
+[Gaugeで学ぶ実行可能ドキュメントの価値](https://www.docswell.com/s/Simplex/K1DX45-2022-11-25-134839)
+ 
+[C 1330 菊池信太郎ビズリーチ ユーザー数100万人規模の事業成長を止めずに、レガシーコードと戦う](https://www.youtube.com/watch?v=QCluKNE6th0)
+
+
+
+[C 1525 orekyuu Fargate上のJVMからCPUを認識するまで 〜正しく認識されないCPUの謎を追え〜](https://www.youtube.com/watch?v=d2eNNMgIwL0)
+
+
+
+[D 1330 大城夏樹テクマトリックス Java開発ツールのあれこれ ～便利そうなツールを色々集めてみた～](https://www.youtube.com/watch?v=nXR-wF8WKxQ)
+
+
+
+[D 1500 梶紳之介 脆弱性対応を支える技術](https://www.youtube.com/watch?v=75hjH9Bnv_I)
+
+[脆弱性対応を支える技術/20221127_JJUG-CCC-2022-Fall](https://speakerdeck.com/skaji18/20221127-jjug-ccc-2022-fall)
+
+[D 1525 平井 一史 非同期メッセージングサービスを使ったLINEメッセージ配信の改善](https://www.youtube.com/watch?v=LzdYXODvKYw)
+
+[非同期メッセージングサービスを使ったLINEメッセージ配信の改善](https://speakerdeck.com/policemankh/improve-oa-messaging-with-asynchronous-architecture)
+
+
+
+[D 1600 疋田圭介CData クラウド時代のデータアクセス仮想化のススメ](https://www.youtube.com/watch?v=kQFocfI2kZs)
+
+[ユーザー数100万人規模の事業成長を止めずに、レガシーコードと戦う / JJUG CCC 2022 Fall](https://speakerdeck.com/visional_engineering_and_design/jjug-ccc-2022-fall)
+
+[PostgreSQL: The Time-Series Database You (Actually) Want](https://www.slideshare.net/ChristophEngelbert/postgresql-the-timeseries-database-you-actually-wantpdf)
