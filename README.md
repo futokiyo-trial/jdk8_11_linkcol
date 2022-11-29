@@ -227,6 +227,8 @@ JDK = JRE + 開発ツール
 
 [Javaの入門が終わったら何の勉強をすればいいの？](https://speakerdeck.com/kishida/what-should-we-study-after-language)
 
+[プログラミング言語の入門が終わったら何の勉強をすればいいの？  2022-11-27](https://nowokay.hatenablog.com/entry/2022/11/27/195003)
+
 [JJUG CCC 2022 Fall ( #jjug_ccc ) - セッション資料の一覧 2022/11/27](https://yujisoftware.hatenablog.com/entry/jjug_ccc_2022_fall)
 
 [A 1000 白栁隆司 非Javaエンジニアが「プロになるJava」で再勉強した話](https://www.youtube.com/watch?v=r1r6VEgfVb4)
