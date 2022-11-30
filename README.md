@@ -248,6 +248,7 @@ JDK = JRE + 開発ツール
 
 [A 1230 多田真敏 入門：テスト技法とJUnit](https://www.youtube.com/watch?v=_7nkOxyO4fU)
 
+[入門: テスト技法とJUnit](https://www.docswell.com/s/MasatoshiTada/K6R995-junit-intro)
 
 
 [A 1330 野中翔太カサレアル 未来を見据えた CI CD ～ 10年後も使える ビルド・テスト パイプライン ～](https://www.youtube.com/watch?v=msC04lnwKXA)
