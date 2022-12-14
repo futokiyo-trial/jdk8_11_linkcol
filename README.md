@@ -204,6 +204,8 @@ JDK = JRE + 開発ツール
 
 [Native Image Quick Reference v2 GraalVM Native Image Quick Referenceの第2版ができたよ、というお話。- Logico Inside 2022/11/18](https://logico-jp.io/2022/11/18/native-image-quick-reference-v2/)
 
+[遅くなりましたが、JDK 19で導入された、jdk.vm.internal.FillerObjectとLjdk.vm.internal.FillerArray;に関するお話。ヒープダンプで確認してみてください。 - Logico Inside 2022/12/12](https://logico-jp.io/2022/12/12/the-case-of-ljdk-vm-internal-fillerarray/)
+
 [JJUG CCC の Microsoft Build OpenJDK のコンテナ活用のベストプラクティスで説明時に利用しているサンプルとスクリプト](https://github.com/yoshioterada/MS-Build-OpenJDK-Container-Best-Practice)
 
 [JJUG CCC 2022 Fall 視聴ページ](https://ccc2022fall-viewer.java-users.jp/)
