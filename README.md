@@ -179,6 +179,8 @@ JDK = JRE + 開発ツール
 
 [JJUG CCC 2022 Fallのバーチャルスレッドの発表、デモ](https://github.com/mike-neck/jjug-ccc-2022-fall-web)
 
+[Java Virtual Threads - YouTube Java Concurrency and Multithreading](https://www.youtube.com/watch?v=kirhhcFAGB4&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&index=5)
+
 [JJUG CCC 2019 Fall C+D 11:00 〜 11:45 『入門 例外』 発表資料](https://github.com/mike-neck/practical-exception)
 
 [【オフライン&配信】 JavaOne & Devoxx報告会 2022（JDK12以降特記すべき仕様変更）](https://www.youtube.com/watch?v=9Pyxv2Eyl-c)
