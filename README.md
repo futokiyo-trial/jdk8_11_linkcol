@@ -183,6 +183,10 @@ JDK = JRE + 開発ツール
 
 [JJUG CCC 2019 Fall C+D 11:00 〜 11:45 『入門 例外』 発表資料](https://github.com/mike-neck/practical-exception)
 
+[Javaで最強 コンカレントプログラミング/concurrent-programming-in-java 2023/02/08](https://speakerdeck.com/oracle4engineer/concurrent-programming-in-java)
+
+[Oracle Cloud Hangout Cafe6 #6 Javaで最強コンカレントプログラミング 2023/02/08](https://togetter.com/li/2073010)
+
 [【オフライン&配信】 JavaOne & Devoxx報告会 2022（JDK12以降特記すべき仕様変更）](https://www.youtube.com/watch?v=9Pyxv2Eyl-c)
 
 [JavaOne 2022 報告会（パターンマッチングとString Templatesの話）](https://speakerdeck.com/takasyou/javaone-2022-bao-gao-hui-patanmatutingutostring-templatesnohua)
