@@ -300,3 +300,27 @@ JDK = JRE + 開発ツール
 [D 1700 Christoph Engelbert PostgreSQL, The Time Series Database You Want](https://www.youtube.com/watch?v=tI9XzfGJOTY&list=PLy44EKO1L0eIl0VIYmGXk9635j6QQ7cF0&index=30)
 
 [PostgreSQL: The Time-Series Database You (Actually) Want](https://www.slideshare.net/ChristophEngelbert/postgresql-the-timeseries-database-you-actually-wantpdf)
+
+[JJUG CCC 2023 Spring conferenceA](https://www.youtube.com/watch?v=a1xr_Y_q96w)
+
+[JJUG CCC 2023 Spring conferenceB](https://www.youtube.com/watch?v=0DdDZO2h9EQ)
+
+[JJUG CCC 2023 Spring conferenceC](https://www.youtube.com/watch?v=rDLS-GdAt3g)
+
+[Virtual Thread - 導入の背景と、効果的な使い方 - - JJUG CCC 2023 Spring](https://speakerdeck.com/skrb/virtual-thread-dao-ru-nobei-jing-to-xiao-guo-de-nashi-ifang-372a94a6-b5dc-448d-b1d1-e8750efdafcb)
+
+[サーバーレスJavaの今 ～SnapStartとWeb Adapterを寄せて～ - JJUG CCC 2023 Spring](https://speakerdeck.com/xblood/sabaresujavanojin-snapstarttoweb-adapterwoji-sete)
+
+[SpringBoot+Kotlinで使うExposed(仮) - JJUG CCC 2023 Spring](https://speakerdeck.com/wenas/jjug-ccc-2023-exposed)
+
+[JUnitテストをCI環境で並列で実行する方法とその速度, スケーラビリティ - JJUG CCC 2023 Spring](https://speakerdeck.com/nabedge/junittesutowocihuan-jing-debing-lie-deshi-xing-surufang-fa-tosonosu-du-sukerabiritei)
+
+[これだけは知っておきたいクラス設計の基礎知識 - JJUG CCC 2023 Spring](https://speakerdeck.com/masuda220/koredakehazhi-tuteokitaikurasushe-ji-noji-chu-zhi-shi)
+
+[複雑性に立ち向かうためのサーバーサイドコード分割 - JJUG CCC 2023 Spring](https://speakerdeck.com/hirokunimaeta/jjug-ccc-2023-spring)
+
+[JJUG CCC 2023 Spring 個人メモ](https://qiita.com/takeyoda/items/1a9d772e175095eeb973)
+
+[【参加した】JJUG CCC 2023 Spring](https://manabu-hashimoto.hatenablog.com/entry/2023/06/04/180745)
+
+
